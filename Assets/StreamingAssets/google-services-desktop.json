@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "712729211198-5rpflha18gfsc2sao6c4c6ktrar6leu6.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7pP6jDLdy5Pp5jVKv6p1_M_4zzu2RC4s"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:712729211198:ios:0096deead344e257457c6f", 
+        "android_client_info": {
+          "package_name": "com.bullseye.FB-TestProject"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "fb-testproject-90c4b.appspot.com", 
+    "project_id": "fb-testproject-90c4b", 
+    "firebase_url": "https://fb-testproject-90c4b.firebaseio.com", 
+    "project_number": "712729211198"
+  }
+}
